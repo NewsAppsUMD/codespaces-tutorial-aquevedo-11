@@ -1,22 +1,14 @@
 [
     {
-        "text": "rain in seattle,\ndon't forget an umbrella,\nor it will be gloom",
-        "image": "puddle_jumper_octodex.jpg"
+        "text": "Kitty has not pooped\nin over three days, poor thing\nRelief, please come soon",
+        "image": "kittybutnot.jpg"
     },
     {
-        "text": "my tunes on repeat,\nit's time for me to dj,\nhave you heard this one?",
-        "image": "vinyltocat.jpeg"
+        "text": "And still, Kitty eats\nand eats and eats all day long,\n'til her stomach is full.",
+        "image": "stuffedkitty.jpg"
     },
     {
-        "text": "snow is still falling,\nis it time for apres yet?\nlet's do one more run",
-        "image": "snowtocat_final.jpg"
-    },
-    {
-        "text": "beep boop bop beep boop,\ni am robot octocat,\ni think there's a bug",
-        "image": "Robotocat.jpeg"
-    },
-    {
-        "text": "same plot as before,\nso why is it still awesome?\ni think it's the hat",
-        "image": "linktocat.jpg"
+        "text": "'Oh no, here comes Mom\nwith petro jelly, gloves, drugs!'\nKitty must hide for now.",
+        "image": "scaredkitty.jpg"
     }
 ]
